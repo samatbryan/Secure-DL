@@ -1,8 +1,8 @@
-# Repo Template
+# Secure Deep Learning
 
-> A template for creating new repositories in the @orbitdb organization
+> General Algorithms for attack and defense
 
-This repository is meant to serve as a general template for how to set up new repositories in the @orbitdb organization. In general, setting up a new repository should take only a few minutes; use this repository as a way of finding example files, and use the following checklist to ensure that you've set up the repository correctly.
+
 
 ## Install
 
